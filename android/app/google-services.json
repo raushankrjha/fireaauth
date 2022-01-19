@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408082958029",
+    "project_id": "demoflutter-d3cd2",
+    "storage_bucket": "demoflutter-d3cd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408082958029:android:812a8d61f39ebd6fc50b84",
+        "android_client_info": {
+          "package_name": "com.example.fireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408082958029-edmmvl26b6dvams6oe156ntn4b3u5slb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs7k-r-fq-tPwnGRThPdzIJHyaLMVz5E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408082958029-edmmvl26b6dvams6oe156ntn4b3u5slb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
