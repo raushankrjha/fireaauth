@@ -58,7 +58,7 @@ class _LoginPageState extends State<LoginPage> {
             ),
             ElevatedButton(
                 onPressed: () {
-                  loginNow();
+                  loginJustNow();
                 },
                 child: Text("Login"))
           ],
@@ -67,7 +67,7 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 
-  Future<void> loginNow() async {
+  Future<void> loginJustNow() async {
     var email = emailcontroller.text;
     var password = passwordcontroller.text;
 
